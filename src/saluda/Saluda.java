@@ -25,6 +25,7 @@ public class Saluda {
         System.out.println("Introduzca edad:");
          edad= sc.nextLine();
           System.out.println("Hola "+nombre +" tienes "+edad+" año");
+          System.out.println("apellidos no");
         //like y subcribete GUAPO!!
     }
     
